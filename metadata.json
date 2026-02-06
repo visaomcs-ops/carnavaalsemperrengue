@@ -1,0 +1,7 @@
+{
+  "name": "Carnaval sem Perrengue",
+  "description": "O guia definitivo para o seu Carnaval. Design premium, informações em tempo real via IA e utilitários essenciais.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
